@@ -1,0 +1,7 @@
+Install Anaconda or Miniconda
+Make sure you have Conda installed on your system. You can download and install it from the Anaconda or Miniconda website.
+
+2. Install the Python Extension in VS Code
+Open VS Code.
+Go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side or pressing Ctrl+Shift+X.
+Search for Python and install the extension from Microsoft.
